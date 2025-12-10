@@ -1,5 +1,5 @@
 # Credit-Analysis
-Credit risk analysis project using DAX &amp; Power BI.
+Credit risk analysis project using DAX &amp; Power BI.This project analyzes customer credit risk using key financial indicators such as credit score, loan amount, repayment behavior, and demographic data.
 # Credit Analysis Project
 
 ## Overview
